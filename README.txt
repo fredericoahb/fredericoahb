@@ -1,4 +1,4 @@
-﻿### Hi there 👋
+### Hi there 👋
 
 I'm Frederico, and I'm a Computer and Electronics Engineer. I'm from Brazil, and I'm currently living in beautiful Rio de Janeiro. :D
 
