@@ -42,3 +42,4 @@ These are some of the technologies and tools that I work with:
 ![IBM DB2](https://img.shields.io/badge/-DB2-007ACC?style=flat-square&logo=IBM&DB2&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM%20Cloud-4285F4?style=flat-square&logo=ibm-cloud&logoColor=white)
 ![jenkins](https://img.shields.io/badge/-Jenkins-339933?style=flat-square&logo=Jenkins&logoColor=white)
+![C++](https://img.shields.io/badge/-C%20+%20+-CC2927?style=flat-square&logo=c-+-+&logoColor=white)
