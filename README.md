@@ -22,6 +22,4 @@ Tools: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&l
 
 IDE: ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-
-
+AI & Machine Learning: ![Grok](https://img.shields.io/badge/-Grok-1DA1F2?style=flat-square&logo=x.ai) ![Claude](https://img.shields.io/badge/-Claude-FF4500?style=flat-square&logo=anthropic) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google) ![Perplexity](https://img.shields.io/badge/-Perplexity-FF6B35?style=flat-square&logo=perplexity.ai) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai) ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1A73E8?style=flat-square&logo=deepseek) ![Qwen](https://img.shields.io/badge/-Qwen-00D4AA?style=flat-square&logo=qwen)
