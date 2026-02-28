@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-I'm Frederico, and I'm a Computer and Electronics Engineer. I'm from Brazil, and I'm currently living in beautiful Vila Velha - ES. :D
+I'm Frederico, and I'm a Computer and Electronics Engineer. I'm from Brazil, and I'm currently living in beautiful Rio de Janeiro-RJ. :D
 
 [![Linkedin: frederico](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederico-homobono-0002b37/)](https://www.linkedin.com/in/frederico-homobono-0002b37/)
 
