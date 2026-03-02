@@ -1,6 +1,10 @@
 ﻿### Hi there 👋
 
-I'm Frederico, and I'm a Computer and Electronics Engineer. I'm from Brazil, and I'm currently living in beautiful Rio de Janeiro-RJ. :D
+I'm Frederico, a Computer and Electronics Engineer from Brazil
+<img src="https://flagcdn.com/16x12/br.png" width="16" height="12" alt="BR" />
+and Portugal
+<img src="https://flagcdn.com/16x12/pt.png" width="16" height="12" alt="PT" />,
+currently based in Rio de Janeiro.
 
 [![Linkedin: frederico](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederico-homobono-0002b37/)](https://www.linkedin.com/in/frederico-homobono-0002b37/)
 
