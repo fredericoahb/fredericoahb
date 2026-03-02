@@ -6,8 +6,6 @@ and Portugal
 <img src="https://flagcdn.com/16x12/pt.png" width="16" height="12" alt="PT" />,
 currently based in Rio de Janeiro.
 
-[![Linkedin: frederico](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederico-homobono-0002b37/)](https://www.linkedin.com/in/frederico-homobono-0002b37/)
-
 
 ## ⚡ Technologies
 
