@@ -1,13 +1,14 @@
-<strong style="font-size: 28px;">Hi there 👋</strong>
+<h2>Hi there 👋</h2>
 
-I'm Frederico, a Computer and Electronics Engineer from Brazil
-<img src="https://flagcdn.com/16x12/br.png" width="16" height="12" alt="BR" />
-and Portugal
-<img src="https://flagcdn.com/16x12/pt.png" width="16" height="12" alt="PT" />,
-currently based in Rio de Janeiro.
+<p>
+  I'm Frederico, a Computer and Electronics Engineer from Brazil
+  <img src="https://flagcdn.com/16x12/br.png" alt="BR" />
+  and Portugal
+  <img src="https://flagcdn.com/16x12/pt.png" alt="PT" />,
+  currently based in Rio de Janeiro.
+</p>
 
 I'm focused on building production-grade software across AI, observability, and data-intensive engineering domains.
-
 
 ## ⚡ Technologies
 
