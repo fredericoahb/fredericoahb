@@ -31,5 +31,5 @@ Cloud: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?
 
 Tools: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![jenkins](https://img.shields.io/badge/-Jenkins-339933?style=flat-square&logo=Jenkins&logoColor=white)
 
-AI Tools: ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)  ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai) 
+AI Tools: ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)  ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
